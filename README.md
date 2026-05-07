@@ -9,7 +9,7 @@ The architecture is designed to simulate a production-style environment with sca
 
 ## 🏗️ Architecture
 
-[Insert Architecture Diagram Here]
+![Architecture](Architecture.png)
 
 ---
 
